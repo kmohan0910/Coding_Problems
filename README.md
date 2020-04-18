@@ -1,2 +1,3 @@
-# ProblemsDP
- Problems on dynamic programming
+#Problem Solving
+Dynamic Programming
+Linked List
